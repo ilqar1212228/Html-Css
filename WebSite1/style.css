@@ -1,0 +1,13 @@
+
+table, th, td{
+    border: 1px solid black;
+
+}
+.Students {
+    border-collapse: collapse;
+    border-spacing: 50px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+
